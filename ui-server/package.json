@@ -1,0 +1,13 @@
+{
+  "name": "ui-server",
+  "version": "0.1.0",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "compression": "^1.7.2",
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

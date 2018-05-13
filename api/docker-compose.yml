@@ -1,0 +1,34 @@
+version: "3"
+
+services:
+  db:
+    image: db
+    container_name: db
+    build: 
+      context: .
+      dockerfile: ./config/db/dev/Dockerfile
+    ports:
+      - "3306:3306"
+    environment:
+      DATABASE_USER: root
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: payroll
+  app:
+    image: app
+    container_name: app
+    build:
+      context: .
+      dockerfile: config/app/dev/Dockerfile
+    ports:
+      - "8080:8080"
+    env_file:
+      - config/env/dev.env
+    volumes:
+      - ./app:/app
+    depends_on:
+      - db
+    links:
+      - db
+    stdin_open: true
+    tty: true
+    restart: always
