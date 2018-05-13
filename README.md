@@ -1,13 +1,13 @@
-# Wave Software Development Challenge
+# Software Development Challenge
 
 Applicants for the [Software
-developer](https://wave.bamboohr.co.uk/jobs/view.php?id=1) role at Wave must
+developer](xxx) role at xxx must
 complete the following challenge, and submit a solution prior to the onsite
 interview.
 
 The purpose of this exercise is to create something that we can work on
 together during the onsite. We do this so that you get a chance to collaborate
-with Wavers during the interview in a situation where you know something better
+with xxx during the interview in a situation where you know something better
 than us (it's your code, after all!)
 
 There isn't a hard deadline for this exercise; take as long as you need to
@@ -18,12 +18,12 @@ time and are happy to leave things open to discussion in the on-site interview.
 Please use whatever programming language and framework you feel the most
 comfortable with.
 
-Feel free to email [dev.careers@waveapps.com](dev.careers@waveapps.com) if you
+Feel free to email [xxx](xxx) if you
 have any questions.
 
 ## Project Description
 
-Imagine that this is the early days of Wave's history, and that we are prototyping
+Imagine that this is the early days of xxx history, and that we are prototyping
 a new payroll system with an early partner. Our partner is going to use our web
 app to determine how much each employee should be paid in each _pay period_, so
 it is critical that we get our numbers right.
@@ -207,7 +207,7 @@ Please modify `README.md` to add:
 1. Complete your project as described above within your local repository.
 1. Ensure everything you want to commit is committed.
 1. Create a git bundle: `git bundle create your_name.bundle --all`
-1. Email the bundle file to [dev.careers@waveapps.com](dev.careers@waveapps.com)
+1. Email the bundle file to [xxx](xxx)
 
 ## Evaluation
 
