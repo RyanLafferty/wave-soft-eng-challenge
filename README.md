@@ -21,6 +21,13 @@ comfortable with.
 Feel free to email [xxx](xxx) if you
 have any questions.
 
+## Captures
+![alt text](URL "Site Image")
+![alt text](URL "Drawer GIF")
+![alt text](URL "Sort GIF")
+![alt text](URL "Filter GIF")
+
+
 ## Project Description
 
 Imagine that this is the early days of xxx history, and that we are prototyping
