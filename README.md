@@ -22,10 +22,10 @@ Feel free to email [xxx](xxx) if you
 have any questions.
 
 ## Captures
-![alt text](URL "Site Image")
-![alt text](URL "Drawer GIF")
-![alt text](URL "Sort GIF")
-![alt text](URL "Filter GIF")
+![Site Image](https://github.com/RyanLafferty/soft-eng-challenge/blob/master/captures/website.png)
+![Drawer GIF](https://github.com/RyanLafferty/soft-eng-challenge/blob/master/captures/challenge-drawer.gif)
+![Sort GIF](https://github.com/RyanLafferty/soft-eng-challenge/blob/master/captures/challenge-sort.gif)
+![Filter GIF](https://github.com/RyanLafferty/soft-eng-challenge/blob/master/captures/challenge-filter.gif)
 
 
 ## Project Description
