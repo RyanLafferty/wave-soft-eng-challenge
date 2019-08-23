@@ -300,4 +300,5 @@ The following model is used to store a payment period for a given employee. This
 * CORS - I would have liked to setup the CORS headers on the ui-server which was utilized to host the ui during early stages of development
 * NGINX - I would have liked to add uwsgi and NGINX to my API stack if given more time
 * Error Handling - If given more time I would add validation to the csv parser as well as any accompanying error handling
+* Action Creators - I would have liked to make use of redux action creators as outlined by the following blog post: https://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/
 
